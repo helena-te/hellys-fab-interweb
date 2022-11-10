@@ -2,9 +2,8 @@ body {
     background: pink;
     font-family: Georgia;
   }
-#h1 {
-  font-family: 'Cute', sans-serif;
-  font-family: 'Spring', sans-serif;
+#title {
+  font-family: fantasy
 }
 #caption {
   font-size: smaller;
