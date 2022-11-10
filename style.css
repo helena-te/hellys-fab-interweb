@@ -10,5 +10,10 @@ body {
   font-size: small;
 }
 #imagesource {
-  font-size: x-small;
+  font-size: smaller;
+}
+#button {
+  background-color: darkviolet;
+  color:deeppink;
+  border-color: darkviolet;
 }
