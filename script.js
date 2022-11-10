@@ -53,7 +53,7 @@ function imageLoaded() {
   // and the registration point of the frame
   // it will auto-calculate the number of frames from the image dimensions and loop them
   var data = {
-    images: [imageLoaded], //'this' is a reference to the loaded image. Image loaded crossOrigin will throw security errors. For more information on Cross Origin Issues: https://www.createjs.com/docs/easeljs/classes/SpriteSheet.html 
+    images: [img.onload], //'this' is a reference to the loaded image. Image loaded crossOrigin will throw security errors. For more information on Cross Origin Issues: https://www.createjs.com/docs/easeljs/classes/SpriteSheet.html 
     frames: {
       width: 21,
       height: 23,
