@@ -4,6 +4,7 @@ body {
   }
 #title {
   font-family: 'Cute', sans-serif;
+  font-size: larger;
 }
 #caption {
   font-size: smaller;
