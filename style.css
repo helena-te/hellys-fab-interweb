@@ -1,5 +1,7 @@
 body {
     background: pink;
-    font-family: fantasy;
-    font color: aquamarine;
+    font-family: Georgia;
   }
+#h1 {
+  font-family: fantasy
+}
