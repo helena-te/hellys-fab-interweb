@@ -3,8 +3,9 @@ body {
     font-family: Georgia;
   }
 #h1 {
-  font-family: fantasy
+  font-family: 'Cute', sans-serif;
+  font-family: 'Spring', sans-serif;
 }
-#p2 {
+#caption {
   font-size: smaller;
 }
