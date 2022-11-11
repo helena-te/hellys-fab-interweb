@@ -7,8 +7,8 @@ function clickAlert() {
   alert('fun fact!');
 }
 
-input.addEventListener('click', clickAlert);
-}
+input.addEventListener('click', clickAlert);}
+
 addingEventListener()
 
 var canvas;
