@@ -20,10 +20,8 @@ body {
 .center {
   text-align: center;
   border: 3px solid plum;
+  margin-center: 10px;
 }
-div + img {
-  margin-bottom: 10px;
-}
-p + div {
+div {
   margin-bottom: 10px;
 }
