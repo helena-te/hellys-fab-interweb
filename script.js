@@ -9,7 +9,7 @@ function clickAlert() {
 
 input.addEventListener('click', clickAlert);
 }
-function addingEventListener()
+addingEventListener()
 
 var canvas;
 var stage;
