@@ -4,11 +4,12 @@
 function addingEventListener() {const input = document.getElementById('button');
 
 function clickAlert() {
-  alert('I was clicked!');
+  alert('fun fact!');
 }
 
 input.addEventListener('click', clickAlert);
 }
+function addingEventListener()
 
 var canvas;
 var stage;
