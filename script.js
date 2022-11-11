@@ -5,7 +5,7 @@
 const input = document.getElementById('button');
 
 function clickAlert() {
-  alert('fun fact!');
+  alert('Helena owns a pink DVD player and over 40 DVDs!');
 }
 
 input.addEventListener('click', clickAlert);
