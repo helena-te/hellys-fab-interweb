@@ -17,3 +17,13 @@ body {
   color:deeppink;
   border-color: darkviolet;
 }
+.center {
+  text-align: center;
+  border: 3px solid plum;
+}
+div + img {
+  margin-bottom: 10px;
+}
+p + div {
+  margin-bottom: 10px;
+}
